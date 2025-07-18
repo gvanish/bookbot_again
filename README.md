@@ -1,2 +1,2 @@
 # bookbot_again
-this my second repository
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
